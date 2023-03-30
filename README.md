@@ -11,7 +11,7 @@ rf_model_use=joblib.load("train_rf_model.m") # load the trained model
 
 Step 2:      
 
-#Input Order: Local time (h), Season(Ls,degree), Surface temperature (K),Albedo, Surface pressure (Pa), Dust opacity,Latatude (degree)
+#Input Order: Local time (h), Season(Ls,degree), Surface temperature (K), Albedo, Surface pressure (Pa), Dust opacity, Latatude (degree)
 
 input_params=[14.5,107,195,0.20,800,0.36,20]
 
