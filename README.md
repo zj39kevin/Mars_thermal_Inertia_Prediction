@@ -6,6 +6,7 @@ Quick start (in Jupyter Notebook)
 Step 1:
 
 import joblib
+
 rf_model_use=joblib.load("train_rf_model.m") # load the trained model
 
 Step 2:      
