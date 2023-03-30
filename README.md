@@ -1,5 +1,6 @@
 # Mars_thermal_Inertia_Prediction
-A machine learning model to predict thermal inertia on Mars
+
+Machine learning techniques, showing high automation and efficiency in handling large amounts of observation data, have been applied to predict the thermal inertia of Mars from surface kinetic temperatures. We created a large data set from well-established KRC thermal models. Using this data set, we trained random forest models using latitude, time of day, season, surface kinetic temperature, albedo, surface pressure and visible dust optical depth as inputs to the model. The output is thermal inertia.
 
 Quick start (in Jupyter Notebook)
 
